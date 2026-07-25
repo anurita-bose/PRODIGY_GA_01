@@ -10,7 +10,7 @@ mimics the style and structure of the training data.
 **Tiny Shakespeare** — the complete works of Shakespeare (~1.1M characters),
 sourced from [karpathy/char-rnn](https://github.com/karpathy/char-rnn).
 Chosen because the archaic style shift is easy to verify visually in
-generated output.
+generated INSTANT output.
 
 ## Approach
 1. Loaded the pretrained `gpt2` model and tokenizer from Hugging Face.
